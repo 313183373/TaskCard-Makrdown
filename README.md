@@ -70,7 +70,7 @@
 
    类似于上图。然后还会用到一个工具来帮助我们可视化地管理故事卡，叫做**看板**。
 
-   ![image-20190220191452230](/Users/xiongxin/Library/Application Support/typora-user-images/image-20190220191452230.png)
+   ![image-20190220191452230](https://ws3.sinaimg.cn/large/006tKfTcly1g0fl4or55lj31ci0ng491.jpg)
 
    可以看到看板中划分出来了很多列，每一列都有名字，用于描述处于当前列的故事卡的状态。
 
